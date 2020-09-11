@@ -1,4 +1,6 @@
-package com.odyssey.odyssey.domain;
+package com.odyssey.odyssey.domain.account;
+
+import com.odyssey.odyssey.domain.transaction.Address;
 
 public class AccountHolder {
 

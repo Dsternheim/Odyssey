@@ -1,4 +1,4 @@
-package com.odyssey.odyssey.domain;
+package com.odyssey.odyssey.domain.transaction;
 
 public class Address {
 

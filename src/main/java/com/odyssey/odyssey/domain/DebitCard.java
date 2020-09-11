@@ -1,5 +1,7 @@
 package com.odyssey.odyssey.domain;
 
+import com.odyssey.odyssey.domain.account.AccountHolder;
+
 public class DebitCard {
 
     private String cardNumber;
